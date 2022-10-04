@@ -1,6 +1,6 @@
 # GitHub user search app
 
-![github_search_project](https://user-images.githubusercontent.com/97960285/193943872-146335d4-fb9c-4372-baf1-5e3031efadb3.jpg)
+![github_search_project](https://user-images.githubusercontent.com/97960285/193944485-93e75743-d99f-4f7a-ba46-5d997151452e.jpg)
 
 
 
