@@ -50,7 +50,7 @@ function App() {
   return (
     <div className={`w-full h-screen bg-[#f2f4fa] dark:bg-[#141C2F]`}>
       <div className="container mx-auto">
-        <div className="p-7 px-5 xl:p-[200px]">
+        <div className="p-7 px-5 xl:py-36 xl:px-48">
           <div>
             <div className="flex items-center justify-between">
               <h1 className="text-lg font-semibold tracking-wide text-gray-800 dark:text-white">
